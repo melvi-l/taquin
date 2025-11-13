@@ -1,16 +1,8 @@
-# Three.js Journey
+# Good ol' project 
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+This is my first soul-stirring project. I work the crap out of me to complete it.
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+The code part is garbage ik but I do not give a single fuck about what you or anybody can thinks about it.
+I will wave it proud till I die because this is really what got me into graphic programmation.
 
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+And also the result is fire imo, and I enjoy playing this silly ass game that I made on my phone when I am bored.
